@@ -9,4 +9,4 @@
 - [ ] 1 LDL for stepping 5V to 3.3V
 - [ ] 1 Micro USB for 5V Power
 - [ ] Power over ethernet (3.3V)
-- [ ] 2 Headers for buttons
+- [ ] 2 Headers for buttons (TL2201OAYA)
