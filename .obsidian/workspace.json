@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "d82195b0f7e1bede",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6e025dca83eca68f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f69940cd84f54ff",
+  "active": "c582a2fa26fa6bd9",
   "lastOpenFiles": [
-    "Untitled.md",
     "ECE 453/Demo 3 Requirements.md",
+    "Untitled.md",
     "ECE 453",
     "Welcome.md"
   ]
