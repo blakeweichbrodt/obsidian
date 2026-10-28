@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 453/Demo 3 Requirements.md",
+                "file": "Jobs/Nominal Application Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Demo 3 Requirements"
+              "title": "Nominal Application Questions"
             }
           }
         ]
@@ -202,6 +202,8 @@
   "active": "c582a2fa26fa6bd9",
   "lastOpenFiles": [
     "ECE 453/Demo 3 Requirements.md",
+    "Jobs/Nominal Application Questions.md",
+    "Jobs",
     "Untitled.md",
     "ECE 453",
     "Welcome.md"
