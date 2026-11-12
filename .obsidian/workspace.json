@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "125a51f4fe2fffdb",
+        "id": "eeeccc3ff7f6ebe6",
         "type": "tabs",
         "children": [
           {
-            "id": "c582a2fa26fa6bd9",
+            "id": "324e85bec1bcd896",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "ECE 453/Weekend Tasks (November 14th).md",
-                "mode": "source",
-                "source": false
+                "aFile": "ECE 453/Weekend Tasks (November 14th).md",
+                "bFile": "ECE 453/Weekend Tasks (November 14th).md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Weekend Tasks (November 14th)"
+              "icon": "diff",
+              "title": "Diff: Weekend Tasks (November 14th)  (Working Tree)"
             }
           }
         ]
@@ -161,7 +161,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 453/Demo 3 Requirements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,7 +170,7 @@
             }
           },
           {
-            "id": "5609b03e58630f20",
+            "id": "148db1b80c806cce",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -185,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +198,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c582a2fa26fa6bd9",
+  "active": "324e85bec1bcd896",
   "lastOpenFiles": [
     "Jobs/Nominal Interview Questions.md",
     "ECE 453/Weekend Tasks (November 14th).md",
