@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eeeccc3ff7f6ebe6",
+        "id": "125a51f4fe2fffdb",
         "type": "tabs",
         "children": [
           {
-            "id": "324e85bec1bcd896",
+            "id": "c582a2fa26fa6bd9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "ECE 453/Weekend Tasks (November 14th).md",
-                "bFile": "ECE 453/Weekend Tasks (November 14th).md",
-                "aRef": ""
+                "file": "Jobs/Nominal Interview Questions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Weekend Tasks (November 14th)  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Nominal Interview Questions"
             }
           }
         ]
@@ -161,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ECE 453/Demo 3 Requirements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,7 +171,7 @@
             }
           },
           {
-            "id": "148db1b80c806cce",
+            "id": "5609b03e58630f20",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -198,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "324e85bec1bcd896",
+  "active": "c582a2fa26fa6bd9",
   "lastOpenFiles": [
-    "Jobs/Nominal Interview Questions.md",
     "ECE 453/Weekend Tasks (November 14th).md",
+    "Jobs/Nominal Interview Questions.md",
     "Jobs/Nominal Application Questions.md",
     "ECE 453/Demo 3 Requirements.md",
     "Jobs",
