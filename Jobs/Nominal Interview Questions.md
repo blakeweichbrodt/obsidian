@@ -15,7 +15,6 @@ UW Connections - Max Leblang
 - What is the best part about working at Nominal?
 
 ### Interviewer Info
-- Dan Nedelescu - Software Engineer (~1 year)
-- NYC Office
-- Georgia Tech Undergrad
-- Rock climbing and backpacking
+- Joey Li - Software Engineer (~1 year)
+- LA Office
+- UC Berkeley Undergrad
