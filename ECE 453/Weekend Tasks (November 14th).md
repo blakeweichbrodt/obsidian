@@ -1,9 +1,9 @@
 ### Things to test
-- [ ] Test UART on board (use Jon's board for RX/TX)
+- [x] Test UART on board (use Jon's board for RX/TX)
 
 ### Things to implement in firmware
-- [ ] Crete a packet type for changing ride mode (Use Jon's code)
-- [ ] Create a packet type for reporting speed. Try to update display with this data.
+- [x] Crete a packet type for changing ride mode (Use Jon's code)
+- [x] Create a packet type for reporting speed. Try to update display with this data.
 
 ### RIB Board
 - [ ] GND TP
