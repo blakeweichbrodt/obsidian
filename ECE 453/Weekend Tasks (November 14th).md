@@ -15,3 +15,28 @@
 - [ ] Find and order a 7 pin connector for the buttons board
 - [ ] Elongate board (spread out buttons)
 - [ ] Add 7 pin connector
+
+
+Board 1
+- B1 - B
+- B0 - A
+- G1 - Z
+- G0 - Y
+
+Board 2
+- B1 - Z
+- B0 - Y
+- G1 - B
+- G0 - A
+
+Board 1
+- B1 - B
+- B0 - A
+- G1 - Z
+- G0 - Y
+
+Board 2
+- B1 - Y
+- B0 - Z
+- G1 - A
+- G0 - B
